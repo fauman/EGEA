@@ -64,3 +64,4 @@ The column headers are:
 7. gwas_source - the pubmedid of the GWAS generating the p-value for this SNP and this metabolite
 8. annotation_source - the pubmedid containing the original causal gene annotation (one of the 3 papers listed above)
 
+Eric Fauman, November 28, 2020
