@@ -368,7 +368,6 @@ TDO2	18.5	tryptophan	rs77969526	TDO2 encodes tryptophan 2,3-dioxygenase which ac
 TF	19.177	Iron|serum	rs8177240	TF encodes transferrin, a key transporter for iron.	1809186	25352340	30239796
 TFR2	18	Iron status biomarkers (iron levels)	rs7385804	TFR2 encodes a receptor for transferrin which binds iron	10409623	25352340	30239796
 TH	48.90413354652146	dopamine 3-O-sulfate	rs200180914	TH encodes tyrosine hydroxylase which converts tyrosine to L-DOPA which can then be converted to the metabolite observed here, dopamine 3-o-sulfate.	14216443	35347128	35347128
-THEM4	37.398	Blood metabolite ratios (linoleate (18:2n6)/X-12442--5,8-tetradecadienoate)	rs6693388	THEM4 is a broad range acyl-CoA thioesterase with a preference for medium and long chain acyl-CoAs. [19453107].  X-12442 has been identified as 5,8-tetradecadienoate.	19453107	24816252	30239796
 THEM4|THEM5	165.59533729912627	cis-4-decenoate (10:1n6)	rs6675930	THEM4 and THEM5 encode medium-chain length acyl-CoA thioesterases which release free fatty acids from acyl-CoAs.  The observed metabolite is a possible product.	19453107|22586271	35347128	35347128
 TKT	37.123608938180816	erythronate	rs4687718	TKT encodes transkelolase, an enzyme with a prefererence for D-erythrose 4-phosphate as a substrate.	9924800	35347128	35347128
 TM6SF2	19.16915480769139	oleoyl-arachidonoyl-glycerol (18:1/20:4) [1]	rs187429064	TM6SF2 encodes a transmembrane 6 superfamily member involved in regulation of hepatic triglyceride synthesis and export.	24927523	35347128	35347128
